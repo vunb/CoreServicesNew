@@ -1,0 +1,4 @@
+BC5380
+127.0.0.1
+Vietbait.Lablink.Devices.Hematology.dll
+Vietbait.Lablink.Devices.Hematology.BC5380

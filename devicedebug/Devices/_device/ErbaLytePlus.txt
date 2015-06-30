@@ -1,0 +1,4 @@
+ErbaLytePlus
+COM6
+Vietbait.Lablink.Devices.Hematology.dll
+Vietbait.Lablink.Devices.Hematology.ErbaLytePlus

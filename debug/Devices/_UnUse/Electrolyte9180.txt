@@ -1,0 +1,4 @@
+Electrolyte9180
+COM10
+Vietbait.Lablink.Devices.Biochemistry.dll
+Vietbait.Lablink.Devices.Biochemistry.Electrolyte9180

@@ -1,0 +1,4 @@
+XS1000I
+COM10
+Vietbait.Lablink.Devices.Hematology.dll
+Vietbait.Lablink.Devices.Hematology.XS1000I

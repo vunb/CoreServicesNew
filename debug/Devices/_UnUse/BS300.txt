@@ -1,0 +1,4 @@
+BS300
+127.0.0.1
+Vietbait.Lablink.Devices.Biochemistry.dll
+Vietbait.Lablink.Devices.Biochemistry.BS300

@@ -1,0 +1,4 @@
+E411
+COM10
+Vietbait.Lablink.Devices.Immunology.dll
+Vietbait.Lablink.Devices.Immunology.Cobase6000Bi

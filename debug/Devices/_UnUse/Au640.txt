@@ -1,0 +1,4 @@
+Au640
+COM10
+Vietbait.Lablink.Devices.Biochemistry.dll
+Vietbait.Lablink.Devices.Biochemistry.AU480Manager

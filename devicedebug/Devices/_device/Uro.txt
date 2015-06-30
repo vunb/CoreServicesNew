@@ -1,0 +1,4 @@
+CLINITEKADV
+COM5
+Vietbait.Lablink.Devices.Urine.dll
+Vietbait.Lablink.Devices.Urine.CLINITEKADV

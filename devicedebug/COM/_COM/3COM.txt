@@ -1,0 +1,6 @@
+COM3
+115200
+8
+One
+None
+None

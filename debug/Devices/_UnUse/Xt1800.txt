@@ -1,0 +1,4 @@
+XT-1800
+COM10
+Vietbait.Lablink.Devices.Hematology.dll
+Vietbait.Lablink.Devices.Hematology.Xt1800

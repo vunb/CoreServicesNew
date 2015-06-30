@@ -1,0 +1,4 @@
+Clinitek
+COM10
+Vietbait.Lablink.Devices.Urine.dll
+Vietbait.Lablink.Devices.Urine.Clinitek

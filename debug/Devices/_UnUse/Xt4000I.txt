@@ -1,0 +1,4 @@
+XT-4000i
+COM10
+Vietbait.Lablink.Devices.Hematology.dll
+Vietbait.Lablink.Devices.Hematology.Xt4000I

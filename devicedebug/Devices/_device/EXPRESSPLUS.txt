@@ -1,0 +1,4 @@
+EXPRESSPLUS
+COM6
+Vietbait.Lablink.Devices.Biochemistry.dll
+Vietbait.Lablink.Devices.Biochemistry.EXPRESSPLUS

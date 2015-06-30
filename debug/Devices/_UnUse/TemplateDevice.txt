@@ -1,0 +1,4 @@
+DeviceName
+PortName
+Path to DLL File
+Full namespace

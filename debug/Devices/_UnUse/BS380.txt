@@ -1,0 +1,4 @@
+Bs380
+192.168.3.103
+Vietbait.Lablink.Devices.Biochemistry.dll
+Vietbait.Lablink.Devices.Biochemistry.Bs380

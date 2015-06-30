@@ -1,0 +1,4 @@
+GA400
+COM5
+Vietbait.Lablink.Devices.Biochemistry.dll
+Vietbait.Lablink.Devices.Biochemistry.GA400

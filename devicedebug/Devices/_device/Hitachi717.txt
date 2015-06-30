@@ -1,0 +1,4 @@
+Hitachi717
+COM6
+Vietbait.Lablink.Devices.Biochemistry.dll
+Vietbait.Lablink.Devices.Biochemistry.Hitachi717

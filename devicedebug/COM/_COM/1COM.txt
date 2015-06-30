@@ -1,0 +1,6 @@
+COM1
+9600
+8
+One
+None
+None

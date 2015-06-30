@@ -1,0 +1,4 @@
+Ise3000
+COM10
+Vietbait.Lablink.Devices.Biochemistry.dll
+Vietbait.Lablink.Devices.Biochemistry.Ise3000

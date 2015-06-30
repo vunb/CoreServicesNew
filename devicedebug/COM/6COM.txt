@@ -1,0 +1,8 @@
+COM6
+19200
+8
+One
+None
+None
+false
+false

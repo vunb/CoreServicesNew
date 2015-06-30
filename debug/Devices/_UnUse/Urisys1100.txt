@@ -1,0 +1,4 @@
+Urisys1100
+COM10
+Vietbait.Lablink.Devices.Urine.dll
+Vietbait.Lablink.Devices.Urine.Urisys1100

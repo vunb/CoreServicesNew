@@ -1,0 +1,8 @@
+COM11
+9600
+8
+One
+None
+None
+true
+false

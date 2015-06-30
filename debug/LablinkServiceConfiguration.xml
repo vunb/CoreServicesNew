@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Devices>
+    <Device>
+      <DeviceGuid>6ebcfbb8-8c2b-444a-b6a3-0eb0cf1adfa2</DeviceGuid>
+      <DeviceType>RS232</DeviceType>
+      <Status>true</Status>
+      <DeviceName>Advia60</DeviceName>
+      <DeviceAsembly>Vietbait.Lablink.Devices.Hematology.dll</DeviceAsembly>
+      <DeviceNameSpace>Vietbait.Lablink.Devices.Hematology.Advia60</DeviceNameSpace>
+      <Connector>COM9</Connector>
+      <BaudRate>9600</BaudRate>
+      <DataBits>8</DataBits>
+      <StopBits>None</StopBits>
+      <Parity>None</Parity>
+      <Handshake>None</Handshake>
+      <RTSEnable>false</RTSEnable>
+      <DTREnable>false</DTREnable>
+      <TimeInterval>100</TimeInterval>
+    </Device>
+  </Devices>
+</Configuration>
